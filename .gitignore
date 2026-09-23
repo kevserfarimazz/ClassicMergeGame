@@ -1,4 +1,7 @@
 # Unity-generated / cache / user-specific folders (do not commit)
+.claude/
+.cursor/
+.windsurf/
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
